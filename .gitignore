@@ -1,0 +1,6 @@
+monfix.path
+monfix.patch
+
+/logs/*
+
+:/logs/.gitkeep
